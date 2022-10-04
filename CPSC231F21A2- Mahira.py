@@ -1,11 +1,6 @@
-# COURSE CPSC 231 FALL 2021
-# INSTRUCTOR: Jonathan Hudson
-#NAME: MAHIRA ZABIN
-# Tutorial: T07
-# ID: 30150211
-# Date: 22ND OCT, 2021
+
 # Description: CREATE A PROGRAM THAT DRAWS EQUATIONS AND MARKS THE MAXIMUM AND MINIMUM POINTS
-#REFERENCE: https://thispointer.com/python-how-to-use-global-variables-in-a-function/#:~:text=with%20same%20name%20%3F-,Use%20of%20%E2%80%9Cglobal%E2%80%A0keyword%20to%20modify%20global%20variable%20inside,at%20start%20of%20function%20i.e.
+
 
 from math import *
 import turtle
